@@ -1,5 +1,3 @@
-# Project Title
-
 Android requirements for both Boku no Natsuyasumi 1 & 2:
 
 ## PS1 ENG Port
